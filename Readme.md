@@ -66,6 +66,9 @@ make test  # Unit tests
 
 ---
 
+### Architecture Doc
+- [Architecture Gitbook](https://openindex.gitbook.io/openindex)
+
 ## 📜 License  
 Dual-licensed under **MIT/Apache 2.0** - No fees, no tokens, pure public good.  
 
